@@ -6,6 +6,8 @@ Download the dataset from https://censusindia.gov.in
 Created and Imported Dataset on MSSQL server
 # Step 3
 Wrote query for analysis
+<img width="1504" alt="Screenshot 2024-06-14 at 12 51 32 AM" src="https://github.com/Sattwikjana/Census_2011_Analysis/assets/97433473/9752ff8d-f10e-4574-9eda-48f007543f58">
+
 # Step 4
 Transformed and formed a new table
 # Step 5
